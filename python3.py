@@ -5,17 +5,17 @@
     operator = input("Choose an operator (+, -, *, /, //, %): ")
 
     if operator == "+":
-        print(f"Addition: {first_number + second_number}")
+        print("Addition: {first_number + second_number}")
     elif operator == "-":
-        print(f"Subtraction: {first_number - second_number}")
+        print("Subtraction: {first_number - second_number}")
     elif operator == "*":
-        print(f"Multiplication: {first_number * second_number}")
+        print("Multiplication: {first_number * second_number}")
     elif operator == "/":
-        print(f"Division: {first_number / second_number}")
+        print("Division: {first_number / second_number}")
     elif operator == "//":
-        print(f"Floor division: {first_number // second_number}")
+        print("Floor division: {first_number // second_number}")
     elif operator == "%":
-        print(f"Modulo: {first_number % second_number}")
+        print("Modulo: {first_number % second_number}")
     else:
         print("Invalid operator. Try one of: +, -, *, /, //, %")
 
