@@ -18,3 +18,25 @@ created while learning the fundamentals of C.
 
 Each program focuses on one C programming concept
 with a simple example to understand how it works.
+
+# Calculator Projects
+
+## 1. C Calculator
+- Addition
+- Subtraction
+- Multiplication
+- Division
+
+## 2. Python Calculator
+- Addition
+- Subtraction
+- Multiplication
+- Division
+
+## Languages Used
+- C
+- Python
+  
+
+
+
